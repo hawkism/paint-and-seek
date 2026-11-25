@@ -1,0 +1,21 @@
+{
+  "name": "Paint & Seek",
+  "short_name": "Paint & Seek",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#3f8cff",
+  "theme_color": "#3f8cff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
